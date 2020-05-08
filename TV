@@ -12257,6 +12257,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="MOROCCO",Tele Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="MOROCCO",Aflam 7
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
 #EXTINF:-1 tvg-logo="http://kushsudan.org/wp-content/uploads/2017/05/flag-3d-round-250.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
 
