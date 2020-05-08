@@ -55,12 +55,15 @@ http://youness-export.com/tv/nbn
 http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-1)
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-2)
 http://youness-export.com/tv/otv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-3)
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-4)
 http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpsHXb2.png" group-title="LEBANON",Tele Liban (New!)
