@@ -43,7 +43,7 @@ http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgeS7Ss.png" group-title="TURKEY",ATV
-https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=YAbup9G2pVGEik6lnsdguA&e=1589158163&SessionID=1.3.431481888.1589112228&StreamGroup=canli-yayin&Site=atv&DeviceGroup=mobil
+https://life.tvizlehd.com/atv.m3u8?tkn=bt7-Po2yqNV02Q1sIeumBw&tms=1589162233
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3Ope2a.png" group-title="TURKEY",Ben TV
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
