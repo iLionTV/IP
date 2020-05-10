@@ -148,7 +148,7 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w301331710.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4C68uV.png" group-title="TURKEY",Içel TV Mersin
-rtmp://stream.taksimbilisim.com/iceltv/bant1
+https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nunhnfn.png" group-title="TURKEY",Isparta TV
 http://metmarbilisim.com:8080/hls/ispartatv.m3u8
@@ -163,10 +163,10 @@ http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNyleGN.png" group-title="TURKEY",Kanal 5
-https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/playlist.m3u8?hash=e33dd79c095311aecb6177a191d64176
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtOdYkR.png" group-title="TURKEY",Kanal 7
-https://mn-nl.mncdn.com/blutv_live/kanal7hd/kanal7hd.smil/chunklist_.m3u8
+https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrdDzlm.png" group-title="TURKEY",Kanal 15 Burdur
 http://waw1.artiyerelmedya.net:1935/kanal15/bant1/playlist.m3u8
@@ -184,19 +184,13 @@ http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
 http://s01.vpis.io/kanal101/kanal101.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0L5fXsQ.png" group-title="TURKEY",Kanal Avrupa
-http://trtv.mine.nu:6161/live/kanalavrupa/sbd61FDerM/661.m3u8
+http://ch.canlitvlive.io/kanalavrupa/live.m3u8?tkn=wy5X56NfvBUy9il6wyp5ew&tms=1589134037
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-1)
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
+https://master.tvizlehd.com/kanald360.m3u8?tkn=sSd51EEGRmAYrmNA_dGYaA&tms=1589127066
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-2)
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-3)
-http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
- 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-4)
-http://188.138.9.246/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png" group-title="TURKEY",Kanal Urfa (Opt-1)
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png" group-title="TURKEY",Kanal Urfa (Opt-1)
 http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
@@ -214,31 +208,16 @@ http://yayin3.canlitv.com:1935/canlitv/kaytv/playlist.m3u8
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OBLXfm.png" group-title="TURKEY",Koroglu TV
-rtmp://stream.taksimbilisim.com/koroglutv/bant1
+https://ecanlitv1.etvserver.com/live_sd/koroglutv/chunks.m3u8?nimblesessionid=179767875&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDI6MTM6MjAgUE0maGFzaF92YWx1ZT1BS2lzcmpEaTNSNUxwZzV5TkFaejZnPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/64XLQvC.png" group-title="TURKEY",Koy TV (Opt-1)
-http://195.244.32.3/koytv/live/chunks.m3u8
- 
+https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist_w892324067.m3u8?hash=e33dd79c095311aecb6177a191d64176
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/64XLQvC.png" group-title="TURKEY",Koy TV (Opt-2)
 http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Performans
-http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop Akustik
-http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL Pop Konser
-https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL TV
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png" group-title="TURKEY",KRAL World TV
-http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
+https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JNXNJXD.png" group-title="TURKEY",Kudüs TV
 http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8
