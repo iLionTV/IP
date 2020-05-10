@@ -118,7 +118,7 @@ http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/DRTTV.m3u8
 https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2wwb6dS.png" group-title="TURKEY",Euro Genc TV
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739188/master.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w974133238.m3u8?hash=e33dd79c095311aecb6177a191d64176
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQtJ7h6.png" group-title="TURKEY",Eurostar
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?fluxustv.m3u8
@@ -127,7 +127,7 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?fluxustv.m3u8
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk4Wp6I.png" group-title="TURKEY",Fortuna TV
-http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
+https://fortunawow1.socialsmart.tv/ftvturk/bant1/chunklist_w1278573113.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox (Opt-1)
 http://streams.livetv.az/turk/fox_stream/playlist.m3u8
