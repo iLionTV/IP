@@ -10,10 +10,10 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=tRGDd_POqtweoOoodvn-tw&e=
 https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=aWzoWvKX2D_xdrgg7VtyZw&e=1589152814&SessionID=1.3.1555673787.1589107618&StreamGroup=canli-yayin&Site=&DeviceGroup=web
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="TURKEY",A Spor
-https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8?fluxustv.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=I2CLOjVI648efvpe80R5Uw&e=1589153997&SessionID=1.3.1716658489.1589108796&StreamGroup=canli-yayin&Site=aspor&DeviceGroup=mobil
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png" group-title="TURKEY",A2TV
-http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
+https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=rJaGOKqxhFiIRd6hauuujA&e=1589157429&SessionID=1.3.431481888.1589112228&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIWlV8B.png" group-title="TURKEY",Africa Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
@@ -25,7 +25,7 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gj25Vq4.png" group-title="TURKEY",Akilli TV
-http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+http://ch.canlitvlive.site/akillitv/live.m3u8?tkn=XDsdoWsz80HKy7MLZ7JiRQ&tms=1589126783
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ci7EGAc.png" group-title="TURKEY",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -37,7 +37,7 @@ http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 rtmp://stream.taksimbilisim.com/aksutv/bant1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DgdUvys.png" group-title="TURKEY",Aktif TV
-http://aktifmedia.be/aktiftv/smil:aktiftv.smil/playlist.m3u8
+https://cdn.yayin.com.tr/aktiftv/aktiftv/media_w183055348_165579.ts
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3E9mj.png" group-title="TURKEY",Alanya TV
 http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
@@ -46,19 +46,7 @@ http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgeS7Ss.png" group-title="TURKEY",ATV
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="TURKEY",beIN Sports 1 (New!)
-http://cstream9.com/hls/beinsports1_tr_si.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="TURKEY",beIN Sports 2 (New!)
-http://cstream9.com/hls/beinsports2_tr_si.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="TURKEY",beIN Sports 3 (New!)
-http://cstream9.com/hls/beinsports3_tr_si.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="TURKEY",beIN Sports 4 (New!)
-http://cstream9.com/hls/beinsports4_tr_si.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=YAbup9G2pVGEik6lnsdguA&e=1589158163&SessionID=1.3.431481888.1589112228&StreamGroup=canli-yayin&Site=atv&DeviceGroup=mobil
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3Ope2a.png" group-title="TURKEY",Ben TV
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
