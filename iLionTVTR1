@@ -4,7 +4,7 @@
 http://www.lengua.com/anthems/Turkey.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFdNPgJ.png" group-title="TURKEY",A Haber
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p-1589107330.ts?st=8XGyi6rxe_XjENXwAWwUcA&e=1589152365&SessionID=1.3.1807745309.1589107168&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png" group-title="TURKEY",A Para
 https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
