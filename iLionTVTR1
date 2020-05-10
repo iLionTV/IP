@@ -247,13 +247,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b167
 https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=rsfJNQ8P-Fv0FXmA9Bvsag&e=1589166293&SessionID=1.3.1000866308.1589121093&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYr56T.png" group-title="TURKEY",Minika GO
-http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=LB6bQnLzF9E7W9gdp3EBMw&e=1589166522&SessionID=1.3.1148065938.1589121320&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=web
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWLEejW.png" group-title="TURKEY",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzrFNZQ.png" group-title="TURKEY",NTV Spor
-http://46.105.233.106:8181/hls/ntvspor/playlist.m3u8
+https://dz4qxz19.rocketcdn.com/dogus1_720/playlist.m3u8?token=oZP1Kydj7LfxIP9eq8flOw&expires=1589122063
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClXOYNb.png" group-title="TURKEY",ON4 TV (Opt-1)
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
@@ -270,32 +270,20 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohlrcl8.png" group-title="TURKEY",Rehber TV
 http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kcx1YH0.png" group-title="TURKEY",Roman TV
-http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hxzWhz.png" group-title="TURKEY",Royal TV
-http://source2.primetime.ch:2981/play/royaltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZjIaS7.png" group-title="TURKEY",S Sport (New!)
-http://cstream9.com/hls/ssport_tr_si.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbk42vx.png" group-title="TURKEY",Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvahL76.png" group-title="TURKEY",Show TV (Opt-1)
-http://95.107.132.104/out/u/224_1.m3u8
+https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1589129069&st=Qp4emRgRQ8PELAMquaiJvw&tv=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvahL76.png" group-title="TURKEY",Show TV (Opt-2)
-http://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
+https://ciner-live.ercdn.net/showtv-aes/showtv-aes_360p.m3u8?e=1589129069&st=rUnfM_sxa_PxxFZjqJAXPA&tv=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mkrnaqR.png" group-title="TURKEY",Siteler TV
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xBFAXD7.png" group-title="TURKEY",Sports TV
-https://mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljw5mNe.png" group-title="TURKEY",SRT Sivas
-rtmp://stream.taksimbilisim.com/srt//bant1
+https://master.tvizlehd.com/sportstv.m3u8?tkn=b3qvT_KmBlmSmv7UeZJcFA&tms=1589129230
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",Star TV (Opt-1)
 http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
@@ -304,19 +292,19 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/W7S9wMd.png" group-title="TURKEY",Sun RTV Mersin
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+https://ecanlitv2.etvserver.com/live_sd/mersinsuntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDI6NTA6NDEgUE0maGFzaF92YWx1ZT1sR1RuWEtJdW5JL2o1UElMb0gvUnlRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De80iGn.png" group-title="TURKEY",TD1
 http://play.streamkit.tv/content/channel/yecmobile/live/yecmobile.player.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vy1iDdY.png" group-title="TURKEY",Tempo Turk TV
-rtmp://91.93.118.165/tempotv/livestream
+https://waw2.artiyerelmedya.net/tempotv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-1)
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-2)
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4a8See.png" group-title="TURKEY",TGRT Belgesel TV
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
