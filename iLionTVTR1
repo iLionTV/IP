@@ -88,13 +88,10 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/ngrp:cekmekoybeltv/chunklist_w1038633441_b767567.m3u8?anahtar=CarwDZTt0ZSrtPaQT9272w&sure=1589136970&ip=172.69.55.105&token=CarwDZTt0ZSrtPaQT9272w&sure=1589136970&ip=172.69.55.105
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ql0TJs.png" group-title="TURKEY",Çorum TV 19
-http://stream.taksimbilisim.com:1935/crt/smil:crt.smil/playlist.m3u8
+https://ecanlitv1.etvserver.com/live_sd/19tv/chunks.m3u8?nimblesessionid=179759132&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDE6MDA6NTcgUE0maGFzaF92YWx1ZT1PY05PWTI4RHdOZDQ0UlVjVzh2ak53PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZyLQXV0.png" group-title="TURKEY",Dersim 62
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mow4jBE.png" group-title="TURKEY",Demiroren News Agency
-http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbkdWg9.png" group-title="TURKEY",Diyalog TV (Opt-1)
 https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist_w744215973.m3u8
@@ -109,10 +106,10 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://s01.vpis.io/dogustv/dogustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSNob3z.png" group-title="TURKEY",Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ttps://2122248082.duhnet.tv//S2/HLS_LIVE/dreamtvnp/track_4_1000/playlist.m3u8?key=df9992bf54b7101a8c82559497e6adeb&live=true&app=com.dreamtv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JERDDAt.png" group-title="TURKEY",Dreamturk TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+https://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=df9992bf54b7101a8c82559497e6adeb&live=true&app=com.dreamturk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DqYHk4d.png" group-title="TURKEY",DRT Denizli TV
 http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/DRTTV.m3u8
