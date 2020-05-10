@@ -230,15 +230,9 @@ http://yayin3.canlitv.com:1935/canlitv/marmaristv/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3qVpPu.png" group-title="TURKEY",Marmaris TV (Opt-2)
 https://59cba4d34b678.streamlock.net/canlitv/marmaristv/chunklist_w1134892921.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9DTllmf.jpg" group-title="TURKEY",Maksim TV
-http://maksimtv.radyotelekomtv.com:1935/maksimtv/maksimtv/chunklist_w1316005678.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ypvbJua.png" group-title="TURKEY",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azW9TST.png" group-title="TURKEY",Medine TV
-http://live38.netmedya.net/hls/medinetv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8LhW9K.png" group-title="TURKEY",Medya Haber
 http://137.74.205.201/live1/mh-3mbps.m3u8
@@ -250,7 +244,7 @@ http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist_b1500000.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbRc4qg.png" group-title="TURKEY",Minika Çocuk
-http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=rsfJNQ8P-Fv0FXmA9Bvsag&e=1589166293&SessionID=1.3.1000866308.1589121093&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYr56T.png" group-title="TURKEY",Minika GO
 http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
