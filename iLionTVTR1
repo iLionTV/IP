@@ -4,16 +4,16 @@
 http://www.lengua.com/anthems/Turkey.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFdNPgJ.png" group-title="TURKEY",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=tRGDd_POqtweoOoodvn-tw&e=1589153754&SessionID=1.3.1525797447.1589108550&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=mobil
+https://life.tvizlehd.com/ahaber360.m3u8?tkn=sVjgsd_nEEDn6kEVM6P53w&tms=1589159674
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png" group-title="TURKEY",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=aWzoWvKX2D_xdrgg7VtyZw&e=1589152814&SessionID=1.3.1555673787.1589107618&StreamGroup=canli-yayin&Site=&DeviceGroup=web
+https://zahir.tvizlehd.com/apara.m3u8?tkn=umVhxj1_p_3FEq5R6gpkAw&tms=1589159737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="TURKEY",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=I2CLOjVI648efvpe80R5Uw&e=1589153997&SessionID=1.3.1716658489.1589108796&StreamGroup=canli-yayin&Site=aspor&DeviceGroup=mobil
+https://master.tvizlehd.com/aspor360.m3u8?tkn=JqYImHyKe2oxOjVoY1a8EQ&tms=1589159795
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png" group-title="TURKEY",A2TV
-https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=rJaGOKqxhFiIRd6hauuujA&e=1589157429&SessionID=1.3.431481888.1589112228&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
+https://hafiz.tvizlehd.com/a2tv.m3u8?tkn=B9cDSYdx_y0fcvMS_V6Paw&tms=1589159949
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIWlV8B.png" group-title="TURKEY",Africa Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
