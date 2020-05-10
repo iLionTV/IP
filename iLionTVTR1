@@ -309,17 +309,11 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4a8See.png" group-title="TURKEY",TGRT Belgesel TV
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 1 (Opt-1)
-http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 1
+https://ecanlitv2.etvserver.com/live_sd/tvbu/chunks.m3u8?nimblesessionid=280378942&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDM6MDA6MjkgUE0maGFzaF92YWx1ZT1zK0RLRk1jQzRRZFZpWnAyZVFoL0FnPT0mdmFsaWRtaW51dGVzPTEw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 1 (Opt-2)
-http://cstream9.com/hls/tivibuspor1_tr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 2 (New!)
-http://cstream9.com/hls/tivibuspor2_tr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 3 (New!)
-http://cstream9.com/hls/tivibuspor3_tr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 2
+https://cdn.macekle.com/test/tivibu2/playlist.m3u8?secure=A1V33PGKVXNDXxTGb8s0PA&expires=1589126481&ip=143.179.63.183
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtE5pn2.png" group-title="TURKEY",Tivitürk TV
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -333,14 +327,11 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="TURKEY",TLC (Opt-2)
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jf1IZv5.png" group-title="TURKEY",Trakya Turk TV
-http://live.arkumedia.com:1935/trakyaturktv/trakyaturktv/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c65lwtE.png" group-title="TURKEY",TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HMtrnWU.png" group-title="TURKEY",TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9Ea6217.png" group-title="TURKEY",TRT Belgesel
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
