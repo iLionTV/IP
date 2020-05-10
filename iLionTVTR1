@@ -25,19 +25,19 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gj25Vq4.png" group-title="TURKEY",Akilli TV
-http://ch.canlitvlive.site/akillitv/live.m3u8?tkn=XDsdoWsz80HKy7MLZ7JiRQ&tms=1589126783
+https://zahir.tvizlehd.com/akillitv-1691.ts?tkn=ZT6ZAiHD5zofilkS0qSUkA&tms=1589160378
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ci7EGAc.png" group-title="TURKEY",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TUJDuaC.png" group-title="TURKEY",AKSU TV (Opt-1)
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+https://waw2.artiyerelmedya.net/aksutv/bant1/chunks.m3u8?hash=b90af62968390d9cd5446201d050df08
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUJDuaC.png" group-title="TURKEY",AKSU TV (Opt-2)
 rtmp://stream.taksimbilisim.com/aksutv/bant1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DgdUvys.png" group-title="TURKEY",Aktif TV
-https://cdn.yayin.com.tr/aktiftv/aktiftv/media_w183055348_165579.ts
+https://cdn.yayin.com.tr/aktiftv/aktiftv/chunklist_w32340801.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj3E9mj.png" group-title="TURKEY",Alanya TV
 http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
