@@ -334,43 +334,34 @@ https://tv-trt1.live.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9Ea6217.png" group-title="TURKEY",TRT Belgesel
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+https://life.tvizlehd.com/trtbelgesel.m3u8?tkn=QenmcxwpjL4b6pwXQGiZOQ&tms=1589130953
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PdrY9uW.png" group-title="TURKEY",TRT Çocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fv200Yq.png" group-title="TURKEY",TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+ttps://tv-trthaber.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SQ3F15T.png" group-title="TURKEY",TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJzvsJc.png" group-title="TURKEY",TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8Okaosj.png" group-title="TURKEY",TRT Spor
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZTIcKui.png" group-title="TURKEY",TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zqMziCJ.png" group-title="TURKEY",Türkiyem
-https://waw2.artiyerelmedya.net/turkiyemtv/bant1/chunklist_w114827257.m3u8
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RC22CHJ.png" group-title="TURKEY",Tuzla Web TV 
 http://tuzlawebtv.netmedya.org:1935/tuzlawebtv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMp3SLD.png" group-title="TURKEY",TV1 Kayseri
-rtmp://stream.taksimbilisim.com/tv1/bant1
+ttps://59cba4d34b678.streamlock.net/live2/tv1.stream/playlist.m3u8?hash=e33dd79c095311aecb6177a191d64176
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2yZsEW.png" group-title="TURKEY",TV4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTu3JLJ.png" group-title="TURKEY",TV8 (Opt-1)
-http://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTu3JLJ.png" group-title="TURKEY",TV8 (Opt-2)
-http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTu3JLJ.png" group-title="TURKEY",TV8 
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_720p.m3u8?e=1589174348&st=SPjG-ZovFHOmYNJuGLvU5A
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gmt8C3J.png" group-title="TURKEY",TV 41
 http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8
@@ -391,10 +382,10 @@ https://s01.vpis.io/wmtv/wmtv.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbsJP9C.png" group-title="TURKEY",Yeni Malatyaspor TV
-http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yegcMCd.png" group-title="TURKEY",Yildiz TV
-http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+https://ecanlitv1.etvserver.com/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDM6Mjc6MzkgUE0maGFzaF92YWx1ZT02dVdwRTVZMldUZDhNNmExV1BtM0J3PT0mdmFsaWRtaW51dGVzPTEw
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3KkbTd.png" group-title="TURKEY",Ziraat TV
 http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
