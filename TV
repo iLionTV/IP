@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
 http://www.lengua.com/anthems/Lebanon.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4mMHeU.png" group-title="LEBANON",Aghani Aghani (New!)
-https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCFZbyR.png" group-title="LEBANON",Al Jadeed (Opt-1)
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
 
@@ -23,9 +20,6 @@ http://live3.mediaforall.net/liveorigin/livestream_360p/playlist.m3u8?fluxustv.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON",Al Manar (Opt-4)
 https://stream.fastpublish.net/ALManarLive/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJB1Z20.png" group-title="LEBANON",Arabica Music (New!)
-http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E8NYa22.png" group-title="LEBANON",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
@@ -66,8 +60,11 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="LEBANON",OTV (Opt-4)
 http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpsHXb2.png" group-title="LEBANON",Tele Liban (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpsHXb2.png" group-title="LEBANON",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="LEBANON",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/media-uauf07lai_b1300000_t64NTc2cA==_21480.ts
 
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
