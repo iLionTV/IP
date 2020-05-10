@@ -129,38 +129,23 @@ http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk4Wp6I.png" group-title="TURKEY",Fortuna TV
 https://fortunawow1.socialsmart.tv/ftvturk/bant1/chunklist_w1278573113.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox (Opt-1)
-http://streams.livetv.az/turk/fox_stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox (Opt-2)
-http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="TURKEY",FRM TV
-http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox 
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1589164061&st=FgU8tSbZLYI30ia19qNyQw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFtdhHU.png" group-title="TURKEY",FRT TV Fethiye
-http://broadcasttr.com:1935/frttv/smil:frttv.smil/playlist.m3u8
+https://waw2.artiyerelmedya.net/frttv/bant1/chunks.m3u8?nimblesessionid=33207088
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wiq3vDx.png" group-title="TURKEY",Guneş TV Malatya
 https://59cba4d34b678.streamlock.net/canlitv/malatyagunestv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="TURKEY",Guney TV Tarsus (Opt-1)
-rtmp://stream.taksimbilisim.com/tarsusguneytv//bant1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="TURKEY",Guney TV Tarsus (Opt-2)
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zzX2cW3.png" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQd16bO.png" group-title="TURKEY",Haber 61 Trabzon
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvyRox1.png" group-title="TURKEY",Haberaks TV
-http://178.211.51.4/hls/haberaks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9DFq8o.png" group-title="TURKEY",IBB TV
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w301331710.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4C68uV.png" group-title="TURKEY",Içel TV Mersin
 rtmp://stream.taksimbilisim.com/iceltv/bant1
