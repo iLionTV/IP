@@ -51,23 +51,11 @@ https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=YAbup9G2pVGEik6lnsdguA&e=158915
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3Ope2a.png" group-title="TURKEY",Ben TV
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aspCtNq.png" group-title="TURKEY",Bereket Hayvancilik (Opt-1)
-http://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a245708b8a5e.smil/chunklist_w427062084_b800000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aspCtNq.png" group-title="TURKEY",Bereket Hayvancilik (Opt-2)
-https://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a1ebda4744d6.smil/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qti5aea.png" group-title="TURKEY",Beşiktaş Web TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvlvWxy.png" group-title="TURKEY",Bloomberg HT (New!)
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6DUajb.png" group-title="TURKEY",Bursa TV
-https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2phcMx.png" group-title="TURKEY",Buyuk Sivas TV
-https://win1.yayin.com.tr/BuyukSivasTV/BuyukSivasTV/chunklist_w1190414913.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tf2F7T.png" group-title="TURKEY",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
@@ -97,10 +85,7 @@ http://212.224.80.91/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMLslfA.jpg" group-title="TURKEY",Çekmekoy Web TV
-http://live.wowzatv.net:1935/belediye/belediye/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGIFdUT.png" group-title="TURKEY",Çiftçi TV
-http://stream.taksimbilisim.com:1935/ciftci/bant1/playlist.m3u8
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/ngrp:cekmekoybeltv/chunklist_w1038633441_b767567.m3u8?anahtar=CarwDZTt0ZSrtPaQT9272w&sure=1589136970&ip=172.69.55.105&token=CarwDZTt0ZSrtPaQT9272w&sure=1589136970&ip=172.69.55.105
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ql0TJs.png" group-title="TURKEY",Çorum TV 19
 http://stream.taksimbilisim.com:1935/crt/smil:crt.smil/playlist.m3u8
