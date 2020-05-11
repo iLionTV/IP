@@ -129,12 +129,6 @@ https://fortunawow1.socialsmart.tv/ftvturk/bant1/chunklist_w1278573113.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox 
 https://life.tvizlehd.com/foxtv.m3u8?tkn=70tP5muarZWLBatMsHNIpw&tms=1589161660
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFtdhHU.png" group-title="TURKEY",FRT TV Fethiye
-https://waw2.artiyerelmedya.net/frttv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wiq3vDx.png" group-title="TURKEY",Guneş TV Malatya
-https://59cba4d34b678.streamlock.net/canlitv/malatyagunestv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zzX2cW3.png" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
 
@@ -148,7 +142,7 @@ https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w301331710.m3u8
 https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nunhnfn.png" group-title="TURKEY",Isparta TV
-http://metmarbilisim.com:8080/hls/ispartatv.m3u8
+https://joker.tvizlehd.com/kanal32.m3u8?tkn=q6BjlufIk5ZJbYeIu3qtiQ&tms=1589164298
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx2Cyq0.png" group-title="TURKEY",Istanbul Metropolitan Municipality
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8?fluxustv.m3u8
