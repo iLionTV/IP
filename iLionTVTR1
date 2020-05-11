@@ -154,10 +154,10 @@ http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNyleGN.png" group-title="TURKEY",Kanal 5
-https://59cba4d34b678.streamlock.net/canlitv/kanal5/playlist.m3u8?hash=e33dd79c095311aecb6177a191d64176
+https://life.tvizlehd.com/kanal5.m3u8?tkn=D-diSC6bbIrPUcoE_ZaI3Q&tms=1589164471
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtOdYkR.png" group-title="TURKEY",Kanal 7
-https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrdDzlm.png" group-title="TURKEY",Kanal 15 Burdur
 http://waw1.artiyerelmedya.net:1935/kanal15/bant1/playlist.m3u8
