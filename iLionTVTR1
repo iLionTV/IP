@@ -103,7 +103,7 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://s01.vpis.io/dogustv/dogustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSNob3z.png" group-title="TURKEY",Dream TV
-ttps://2122248082.duhnet.tv//S2/HLS_LIVE/dreamtvnp/track_4_1000/playlist.m3u8?key=df9992bf54b7101a8c82559497e6adeb&live=true&app=com.dreamtv
+https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JERDDAt.png" group-title="TURKEY",Dreamturk TV
 https://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=df9992bf54b7101a8c82559497e6adeb&live=true&app=com.dreamturk
