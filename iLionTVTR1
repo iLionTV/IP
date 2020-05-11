@@ -4,13 +4,13 @@
 http://www.lengua.com/anthems/Turkey.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFdNPgJ.png" group-title="TURKEY",A Haber
-https://life.tvizlehd.com/ahaber360.m3u8?tkn=sVjgsd_nEEDn6kEVM6P53w&tms=1589159674
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/32981.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png" group-title="TURKEY",A Para
 https://zahir.tvizlehd.com/apara.m3u8?tkn=umVhxj1_p_3FEq5R6gpkAw&tms=1589159737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="TURKEY",A Spor
-https://master.tvizlehd.com/aspor360.m3u8?tkn=JqYImHyKe2oxOjVoY1a8EQ&tms=1589159795
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/32978.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png" group-title="TURKEY",A2TV
 https://hafiz.tvizlehd.com/a2tv.m3u8?tkn=B9cDSYdx_y0fcvMS_V6Paw&tms=1589159949
@@ -30,6 +30,9 @@ https://life.tvizlehd.com/akillitv.m3u8?tkn=wmuUovYKYVfFCofwN02boA&tms=158916200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ci7EGAc.png" group-title="TURKEY",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci7EGAc.png" group-title="TURKEY",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TUJDuaC.png" group-title="TURKEY",AKSU TV
 http://ch.canlitvlive.io/aksu-tv/live.m3u8?tkn=ObYUl76yUbC7vq7Yb0X17w&tms=1589168380
 
@@ -43,8 +46,20 @@ http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgeS7Ss.png" group-title="TURKEY",ATV
-https://hafiz.tvizlehd.com/atv.m3u8?tkn=T87ED6C5W4F5pxLyU0bzuQ&tms=1589162514
- 
+http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imr.com/gS7Ss.png" group-title="TURKEY",Vizyon58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imr.com/gS7Ss.png" group-title="TURKEY",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imr.com/gS7Ss.png" group-title="TURKEY",ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imr.com/gS7Ss.png" group-title="TURKEY",ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3Ope2a.png" group-title="TURKEY",Ben TV
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
  
@@ -54,8 +69,17 @@ http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvlvWxy.png" group-title="TURKEY",Bloomberg HT (New!)
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imur.com/y.png" group-title="TURKEY",Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist_w453158305.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tf2F7T.png" group-title="TURKEY",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/68/TV_8.png" group-title="TURKEY",TV 8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/68/TV_8.png" group-title="TURKEY",TV 8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8yDnCj.png" group-title="TURKEY",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
@@ -98,6 +122,10 @@ http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rVmYgd5.png" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVmYgd5.png" group-title="TURKEY",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyubJha.png" group-title="TURKEY",Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
@@ -126,8 +154,14 @@ http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk4Wp6I.png" group-title="TURKEY",Fortuna TV
 https://fortunawow1.socialsmart.tv/ftvturk/bant1/chunklist_w1278573113.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox 
-https://life.tvizlehd.com/foxtv.m3u8?tkn=70tP5muarZWLBatMsHNIpw&tms=1589161660
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox SD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="TURKEY",Fox FHD
+http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zzX2cW3.png" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
@@ -146,6 +180,15 @@ https://joker.tvizlehd.com/kanal32.m3u8?tkn=q6BjlufIk5ZJbYeIu3qtiQ&tms=158916429
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx2Cyq0.png" group-title="TURKEY",Istanbul Metropolitan Municipality
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181118/evr/kisspng-kanal-d-television-channel-high-definition-televis-kanal-d-live-parsa-tv-mobile-version-5bf1aacfe77ed5.0728582915425645599482.jpg" group-title="TURKEY",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181118/evr/kisspng-kanal-d-television-channel-high-definition-televis-kanal-d-live-parsa-tv-mobile-version-5bf1aacfe77ed5.0728582915425645599482.jpg" group-title="TURKEY",Kanal D
+http://streams2.livetv.az/turk/kanald_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181118/evr/kisspng-kanal-d-television-channel-high-definition-televis-kanal-d-live-parsa-tv-mobile-version-5bf1aacfe77ed5.0728582915425645599482.jpg" group-title="TURKEY",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHAGsRk.png" group-title="TURKEY",Kanal 3 (Opt-1)
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
@@ -170,7 +213,10 @@ http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S7h9Zq3.png" group-title="TURKEY",Kanal 34
 http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imur.com/S7h9Z3.png" group-title="TURKEY",TV 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGSNWCU.png" group-title="TURKEY",Kanal 101
 http://s01.vpis.io/kanal101/kanal101.m3u8
  
@@ -230,15 +276,21 @@ http://137.74.205.201/live1/mh-3mbps.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJbuFyH.png" group-title="TURKEY",Merkez TV Bolu
 http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJbuFyH.png" group-title="TURKEY",Merkez TV Bolu
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGZ51XV.png" group-title="TURKEY",Meteoroloji TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist_b1500000.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbRc4qg.png" group-title="TURKEY",Minika Çocuk
-https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=rsfJNQ8P-Fv0FXmA9Bvsag&e=1589166293&SessionID=1.3.1000866308.1589121093&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/33021.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYr56T.png" group-title="TURKEY",Minika GO
-https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=LB6bQnLzF9E7W9gdp3EBMw&e=1589166522&SessionID=1.3.1148065938.1589121320&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=web
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/33022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWLEejW.png" group-title="TURKEY",NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWLEejW.png" group-title="TURKEY",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/index.m3u8?fluxustv.m3u8
@@ -264,11 +316,20 @@ http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbk42vx.png" group-title="TURKEY",Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TvahL76.png" group-title="TURKEY",Show TV (Opt-1)
-https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1589129069&st=Qp4emRgRQ8PELAMquaiJvw&tv=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",Star TV (Opt-1)
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TvahL76.png" group-title="TURKEY",Show TV (Opt-2)
-https://ciner-live.ercdn.net/showtv-aes/showtv-aes_360p.m3u8?e=1589129069&st=rUnfM_sxa_PxxFZjqJAXPA&tv=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",Star TV (Opt-2)
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",STAR TV SD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7pwkHU.png" group-title="TURKEY",STAR TV FHD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mkrnaqR.png" group-title="TURKEY",Siteler TV
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
@@ -297,8 +358,17 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-2)
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2byqxkD.png" group-title="TURKEY",Teve2 (Opt-3)
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgu.com/2byqkD.png" group-title="TURKEY",YOL HD
+http://stream.yol.tv:9485/medialive/yol.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4a8See.png" group-title="TURKEY",TGRT Belgesel TV
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4a8See.png" group-title="TURKEY",TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUvMqki.png" group-title="TURKEY",Tivibu Spor 1
 https://ecanlitv2.etvserver.com/live_sd/tvbu/chunks.m3u8?nimblesessionid=280378942&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIwIDM6MDA6MjkgUE0maGFzaF92YWx1ZT1zK0RLRk1jQzRRZFZpWnAyZVFoL0FnPT0mdmFsaWRtaW51dGVzPTEw
